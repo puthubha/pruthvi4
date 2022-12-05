@@ -1,0 +1,70 @@
+
+body{
+  text-align: center;
+   background-color: #F5FFFA ;
+   font-family: 'Lobster', cursive;
+ }
+
+
+
+.heading-div{
+
+  font-size: 3rem;
+  margin-bottom: 0;
+
+ }
+
+ .heading-text{
+   margin-top: 2%;
+   margin-bottom: 2%;
+ }
+
+.p-tag{
+
+    font-size: 1.8rem;
+}
+.player-1{
+    margin-right: 8%;
+     display: inline-block;
+
+ }
+
+.player-2{
+     display: inline-block;
+ }
+
+
+.footer{
+  font-size: 1.2rem;
+  margin: 5% auto 2% auto;
+  font-family: 'Bebas Neue', cursive;
+}
+
+.footer-p{
+  font-size: 2.2rem;
+  margin-top: 1%;
+
+}
+
+@media (max-width: 800px){
+
+  .heading-div{
+
+    font-size: 2rem;
+    margin-bottom: 12%;
+
+   }
+
+  .player-1{
+      margin: auto;
+       display: block;
+
+   }
+
+  .player-2{
+
+       display: block;
+   }
+
+
+}
